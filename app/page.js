@@ -201,7 +201,7 @@ export default function Home() {
           © Aishah Pervaiz 2024
         </Typography>
         <Typography variant="body2">
-          Design: Built with React.js, Next.js, Material UI, and Firebase
+          Design: Built with JavaScript, React.js, Next.js, Material UI, and Firebase
         </Typography>
       </Box>
       <Modal open={open} onClose={handleClose}>
