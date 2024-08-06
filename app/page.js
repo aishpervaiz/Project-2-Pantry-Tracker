@@ -92,7 +92,7 @@ export default function Home() {
           align="center" 
           sx={{ mb: 4, color: '#4a5d23', fontFamily: '"Lora", serif' }} // Olive green color and sophisticated font
         >
-          Aishah's Pantry Tracker
+          Pantry Tracker by Aishah
         </Typography>
         <Box
           width="100%"
